@@ -4,7 +4,7 @@
 
 时间轮主要场景：主要用在高效的执行项目中的定时任务，实现延时队列等应用场景。
 
-<img src="timewheel.png" alt="timewheel" style="zoom:60%;" />
+<img src="assets/timewheel.png" alt="timewheel" style="zoom:60%;" />
 
 时间轮代码：
 
